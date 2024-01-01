@@ -1,0 +1,22 @@
+Privacy Policy
+1. Information We Collect:
+
+1.1 Account Information:
+When you sign up or log in using Google authentication, we collect basic account information such as your email address.
+
+1.2 Location Information:
+We may collect and store your location data to provide you with relevant information based on your geographical location.
+
+2. How We Use Your Information:
+
+2.1 Personalization:
+We use your account information to personalize your experience and display your position in the database.
+
+3. Data Security:
+We take appropriate measures to secure your data and prevent unauthorized access.
+
+4. Third-Party Services:
+We may use third-party services that have their own privacy policies. We encourage you to review the privacy policies of these services.
+
+5. Changes to Privacy Policy:
+We reserve the right to update our Privacy Policy. Any changes will be communicated through the app.
